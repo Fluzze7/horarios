@@ -1,0 +1,16 @@
+***REQUISITOS TAREA***
+
+1- Tener en cuenta que hay profes que dan clase en distintos cursos y/o ciclos
+2- Los profes con más antiguedad tienen más prioridad a la hora de especificar determinados horarios.
+3- Máximo 3 sesiones seguidas por misma asignatura
+4- Para los profesores, las máximas sesiones por día no pueden superar las 7. (Ideal que como máximo 6)
+5- Los horarios deben de ser variados (que al mismo profe no le toque empezar siempre a las 8:30 o terminar todos los días a las 15:00)
+6- Hay que tener en cuenta que el aula de PCs se comparte entre varios ciclos.
+7- Si un profe no puede ejercer en un determinado horario por trabajar en otro centro, se debe compaginar su horario.
+8- Un profesor no debe de tener demasiadas horas libres entre clase y clase.
+9- Horario de clase por las tardes, deberían estar exentos los profes con mayor antiguedad.
+10- Los módulos susceptibles de ser convalidados se debe procurar que sean a primera o última hora.
+
+El horario está formado por 36 sesiones a la semana, cada profesor dará como máximo 25 sesiones a la semana.
+
+***********************
